@@ -1,7 +1,6 @@
 <?php
   $user=new user;
   $users=$user->show();
-  echo "New git control";
 ?>
  <a href='./?page=users/create.php' class='btn btn-primary mb-3'>Create</a>
 <table class='table table-stribed'>
