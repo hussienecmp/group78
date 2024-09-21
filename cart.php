@@ -12,8 +12,6 @@
                 echo total_cart($products_price,40); 
                 echo " shipping price 40";
             }
-          
-         echo 12333;
                ?></th></tr>
   </table>
  
